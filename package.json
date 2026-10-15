@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "my first socket.io app",
   "dependencies": {
-    "express": "^3.21.2",
+    "express": "^4.22.0",
     "forever": "^4.0.3",
     "forever-monitor": "^1.7.2",
     "fs": "^0.0.1-security",
